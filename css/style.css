@@ -24,7 +24,7 @@ p {
 footer {
     background-color: rgb(40, 21, 22);
     padding: 100px;
-    text-align: center; /* Alinhamento do texto */
-    width: 100%; /* Largura total */
-    margin-top: 100px; /* Empurra o rodapé para o fim da página */
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
 }
