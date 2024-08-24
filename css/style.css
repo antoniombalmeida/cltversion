@@ -1,0 +1,30 @@
+body {
+    width: auto;
+    height: auto;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+header {
+    background-color: rgb(40, 21, 22);
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin: 20px;
+}
+.card-header {
+    font-size: 25px;
+    background-color: rgb(40, 21, 22);
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+footer {
+    background-color: rgb(40, 21, 22);
+    padding: 100px;
+    text-align: center; /* Alinhamento do texto */
+    width: 100%; /* Largura total */
+    margin-top: 100px; /* Empurra o rodapé para o fim da página */
+}
